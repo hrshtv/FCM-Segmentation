@@ -10,9 +10,9 @@ A modified *Fuzzy-C-Means* (FCM) approach to segment an image while estimating a
 
 <br>
 
-<img align="left" src="plots/segment_kmeans.jpg" width="50%"></img>
 <p align="right">
-<img align="right" src="plots/segment_fcm_bias.jpg" width="50%"></img>
+<img align="left" src="plots/segment_kmeans.jpg" width="45%"></img>
+<img align="right" src="plots/segment_fcm_bias.jpg" width="45%"></img>
 </p>
 
 <br>
