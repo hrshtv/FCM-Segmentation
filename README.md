@@ -1,21 +1,21 @@
 <h1 align="center">Segmentation using FCM with Bias Field Correction</h1>
 
 A modified *Fuzzy-C-Means* (FCM) approach to segment an image while estimating and accounting for the bias/inhomogeneity field.     
+    
 
 <img align="left" src="plots/corrupted.jpg" width="30%"></img>
 <p align="center">
   <img src="plots/bias_removed.jpg" width="30%"></img>
 <img align="right" src="plots/bias_field.jpg" width="30%"></img>
 </p>
+    
 
-<br>
-
-<p align="right">
-<img align="left" src="plots/segment_kmeans.jpg" width="45%"></img>
-<img align="right" src="plots/segment_fcm_bias.jpg" width="45%"></img>
+<img align="left" src="plots/segment_kmeans.jpg" width="50%"></img>
+<p align="center">9
+<img align="right" src="plots/segment_fcm_bias.jpg" width="50%"></img>
 </p>
 
-<br>
+     
 
 ## Usage:
 See [`code/main.mlx`](code/main.mlx) and run it cell by cell.
