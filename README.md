@@ -10,12 +10,9 @@ A modified *Fuzzy-C-Means* (FCM) approach to segment an image while estimating a
 </p>
     
 
-<img align="left" src="plots/segment_kmeans.jpg" width="50%"></img>
-<p align="center">9
-<img align="right" src="plots/segment_fcm_bias.jpg" width="50%"></img>
-</p>
-
-     
+<img align="left" src="plots/segment_kmeans.jpg" max-width="47%"></img>
+<img align="right" src="plots/segment_fcm_bias.jpg" max-width="47%"></img>
+   
 
 ## Usage:
 See [`code/main.mlx`](code/main.mlx) and run it cell by cell.
